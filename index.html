@@ -607,7 +607,7 @@
 							}
 							else if (y === "safe dating"){
 								var q = liveChampion(r);
-								fates.push(allNames[r] + " and " + allNames[q] + " practice safe dating.");
+								fates.push(allNames[r] + " and " + allNames[q] + " experience the healing power of Fuck!");
 								health[r]++;
 								health[q]++;
 							}
@@ -811,7 +811,7 @@
 						var lol = playerItems[r].indexOf("pack of condoms");
 						var lol2 = playerItems[q].indexOf("pack of condoms");
 						if (lol != -1 || lol2 != -1){
-							fates.push(allNames[r] + " and " + allNames[q] + " practice safe dating.");
+							fates.push(allNames[r] + " and " + allNames[q] + " experience the healing power of Fuck!");
 							if (lol != -1){
 								for (var i=lol; i<playerItems[r].length-1; i++){
 									playerItems[r][i] = playerItems[r][i+1];
@@ -826,7 +826,7 @@
 							}
 						}
 						else {
-							fates.push(allNames[r] + " and " + allNames[q] + " die of AIDS after practicing unsafe dating.");
+							fates.push(allNames[r] + " and " + allNames[q] + " couldn"t resist doing it without getting some condoms first.");
 							deathBools[r] = false;
 							deathBools[q] = false;
 							done[q] = true;
