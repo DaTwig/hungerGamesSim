@@ -260,7 +260,8 @@ var misc =
 "finds Bishan Agrawal",
 "barrel rolls",
 "finds Dory",
-"finds Nemo"];
+"finds Nemo"
+"gets hard"];
 
 var injury =
 ["gets a cold",
@@ -293,7 +294,9 @@ var injury =
 "gets an ulcer",
 "develops stage 4 brain cancer",
 "gets necrosis",
-"gets forced into fall mentorship"];
+"gets forced into fall mentorship"
+"gets ligma"
+"tried clipping to the backrooms"];
 
 var injEffect =
 ["bow",
@@ -309,7 +312,8 @@ var injEffect =
 "fidget spinner",
 "spins fidget spinner nonfatally at",
 "assault rifle",
-"shoots and grazes"];
+"shoots and grazes"
+"hits balls"];
 
 var variousDeaths =
 ["strangles",
@@ -346,7 +350,8 @@ var variousDeaths =
 "falls in a well",
 "dies in the Matrix",
 "succumbs to lethal peer pressure from",
-"accepts the Blue Whale challenge"];
+"accepts the Blue Whale challenge"
+"gets sent to the backrooms"];
 
 var doubleDeath =
 ["strangles",
@@ -355,7 +360,8 @@ var doubleDeath =
 "gets memed to death by",
 "uses dank memes to kill",
 "fatally roundhouse kicks",
-"succumbs to lethal peer pressure from"];
+"succumbs to lethal peer pressure from"
+"used covid to"];
 
 var options =
 ["weapons",
